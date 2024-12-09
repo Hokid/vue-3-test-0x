@@ -1,6 +1,8 @@
 # test-x0
 
-This template should help get you started developing with Vue 3 in Vite.
+Simple Vue3 App
+
+![Preview](preview.png)
 
 ## Recommended IDE Setup
 
