@@ -1,0 +1,22 @@
+.btn {
+  background: #3988ff;
+  border: none;
+  color: #ffffff;
+  border-radius: 3px;
+  margin: 0;
+  padding: 6px 24px;
+  cursor: pointer;
+}
+
+.btn:hover {
+  background: #569afd;
+}
+
+.btn:active {
+  background: #246bc4;
+}
+
+.btn[disabled] {
+  cursor: default;
+  background: #b3bcdd;
+}
